@@ -13,7 +13,7 @@ Disciplina: Design Patterns & Clean Code
 - README.md
 
 ## Como Executar
-1. Copie a pasta `projeto-usuarios-clean-code` para `C:\xampp\htdocs\`.
+1. Copie a pasta `projeto-usuarios` para `C:\xampp\htdocs\`.
 2. Inicie o Apache no XAMPP.
 3. Abra no navegador: http://localhost/projeto-usuarios
 
